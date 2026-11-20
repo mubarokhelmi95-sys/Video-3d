@@ -1,0 +1,13 @@
+{
+  "name": "video-3d",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remotion": "4.0.250",
+    "@remotion/cli": "4.0.250",
+    "@remotion/three": "4.0.250",
+    "three": "0.160.0",
+    "@react-three/fiber": "8.15.19"
+  }
+}
